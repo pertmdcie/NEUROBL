@@ -5,7 +5,7 @@ and yeasts obtained from microscope images.
 Authors:
 Arzate Quintana Carlos, 
 Chacón Murguía Mario Ignacio, 
-Martinez Madrid Enrique, 
+Martínez Madrid Enrique, 
 Ramírez Quintana Juan Alberto, 
 Salazar González Edgar Alejandro
 
