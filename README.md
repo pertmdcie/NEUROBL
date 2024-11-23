@@ -3,7 +3,11 @@ NEUROBL is a computer program that detects, quantifies and segments bacteria
 and yeasts obtained from microscope images.
 
 Authors:
-Arzate Quintana Carlos,Chacón Murguía Mario Ignacio, Martinez Madrid Enrique, Ramírez Quintana Juan Alberto, Salazar González Edgar Alejandro
+Arzate Quintana Carlos
+Chacón Murguía Mario Ignacio
+Martinez Madrid Enrique
+Ramírez Quintana Juan Alberto
+Salazar González Edgar Alejandro
 
 The program will be free to use if the article 
 "Fully convolutional lightweight network applied to microbiological and cellular 
