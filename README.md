@@ -15,6 +15,10 @@ analysis: detection, quantification and segmentation" is cited.
 
 This program is registered in the Public Registry of Copyright, Mexico, with the number 03-2024-082010165600-01
 
+Since the application is too big, it can be accessed through Google Drive at this link:
+
+https://drive.google.com/drive/folders/1J9B0SZg_erbZuXr7TQ3lK3yd6YXJSYVW?usp=drive_link
+
 INSTRUCTIONS FOR USE OF THE APPLICATION
 
 1. Download the entire folder.
