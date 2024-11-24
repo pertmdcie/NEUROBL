@@ -22,7 +22,7 @@ https://drive.google.com/drive/folders/1J9B0SZg_erbZuXr7TQ3lK3yd6YXJSYVW?usp=dri
 INSTRUCTIONS FOR USE OF THE APPLICATION
 
 1. Download the entire folder.
-2. Open the MNET.exe program (this is the application).
+2. Open the NEUROBL.exe program (this is the application).
 3. Press the "Cargar Imagenes (por carpeta)" button to load a folder containing many images to process.
 or "Cargar Imagenes" to add images one by one.
 
